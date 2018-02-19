@@ -23,7 +23,7 @@ Loopback explorer:
 change https://nodejsallday-mindtricksxcii.c9users.io/explorer to http://localhost:3000/explorer
 
 ### React client_src Usage 
-This is the react source code. This is the code you edit
+This is the react source code for you to edit.
 
 Open a new terminal in the "client_src" folder
 
@@ -43,7 +43,7 @@ $ npm install
 $ npm start
 ```
 
-This should start on port 3001
+For you, this should start on port 3001
 
 ### Compile React client_src
 
