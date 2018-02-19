@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "cakeapp-app",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
